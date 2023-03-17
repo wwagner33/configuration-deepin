@@ -136,4 +136,10 @@ fi
 
 ```
 
+#Configuring NordVPN on Deepin
+```bash
+nordvpn set technology openvpn
+nordvpn set protocol udp
+```
+
 I used this tutorial to enable my touchpad: [https://www.reddit.com/r/deepin/comments/bkua9m/a_way_to_fix_touchpad_disable_in_deepin_using/](https://www.reddit.com/r/deepin/comments/bkua9m/a_way_to_fix_touchpad_disable_in_deepin_using/)
